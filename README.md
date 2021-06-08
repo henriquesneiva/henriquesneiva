@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Santos</h1>
 <h3 align="center">prazer sou Java Software developer na Cwi software , estou cursando analise e desenvolvimento de sistemas na Multivix , seja bem vindo ao meu perfil e sinta-se a vontade</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquesneiva&label=Profile%20views&color=0e75b6&style=flat" alt="henriquesneiva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquesneiva" alt="henriquesneiva" /></a> </p>
 
 - 🔭 I’m Java Software developer at [Cwi Softaware](https://cwi.com.br/)
 
@@ -20,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesneiva&show_icons=true&locale=en" alt="henriquesneiva" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henriquesneiva&" alt="henriquesneiva" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriquesneiva&label=Profile%20views&color=0e75b6&style=flat" alt="henriquesneiva" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henriquesneiva" alt="henriquesneiva" /></a> </p>
