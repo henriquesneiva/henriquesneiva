@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m Software Engineer at [Itaú Unibancot](https://www.itau.com.br/)
+- 🔭 I’m Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
