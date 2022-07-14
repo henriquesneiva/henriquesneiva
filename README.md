@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Henrique Santos</h1>
-<h3 align="center">prazer sou Java Software developer na Cwi software , estou cursando analise e desenvolvimento de sistemas na Multivix , seja bem vindo ao meu perfil e sinta-se a vontade</h3>
+<h3 align="center">prazer sou engenheiro de software no Itaú Unibanco, estou cursando analise e desenvolvimento de sistemas na Multivix , seja bem vindo ao meu perfil e sinta-se a vontade</h3>
 
 
 
-- 🔭 I’m Java Software developer at [Cwi Softaware](https://cwi.com.br/)
+- 🔭 I’m Software Engineer at [Itaú Unibancot](https://www.itau.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
